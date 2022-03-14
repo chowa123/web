@@ -1,4 +1,3 @@
-# website made for fun
 <!DOCTYPE html>
 <html>
     <head>
